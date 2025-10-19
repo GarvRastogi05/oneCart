@@ -124,5 +124,5 @@ Contributions are always welcome!
 5. Create a pull request.
 
 
-
+<p align="center">💙 Developed by <b>Garv Rastogi</b></p> ```
    
