@@ -74,16 +74,18 @@ This enables Firebase authentication and hosting for the frontend.
 # Environment Variables
 
 You may need to set up an .env file in the backend/ directory with variables such as:
-PORT = 8000
-MONGODB_URL = "enter your mongodb url"
-JWT_SECRET = "EWQS25554cfdXHWSJW4Y53"
-ADMIN_EMAIL = "admin@onecart.com"
-ADMIN_PASSWORD = "admin1234567"
-CLOUDINARY_NAME = "enter your cloud name"
-CLOUDINARY_API_KEY = "enter your api key"
-CLOUDINARY_API_SECRET = "enter your api secret"
-RAZORPAY_KEY_SECRET = 'enter your key secret'
-RAZORPAY_KEY_ID = 'enter your key id'
+
+PORT=8000
+MONGODB_URL="enter your mongodb url"
+JWT_SECRET="EWQS25554cfdXHWSJW4Y53"
+ADMIN_EMAIL="admin@onecart.com"
+ADMIN_PASSWORD="admin1234567"
+CLOUDINARY_NAME="enter your cloud name"
+CLOUDINARY_API_KEY="enter your api key"
+CLOUDINARY_API_SECRET="enter your api secret"
+RAZORPAY_KEY_ID="enter your key id"
+RAZORPAY_KEY_SECRET="enter your key secret"
+
 
 
 💳 Razorpay Integration : 
