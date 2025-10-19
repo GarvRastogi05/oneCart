@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Payments-Razorpay-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Auth-Firebase-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
+  
 </p>
 
 ---
